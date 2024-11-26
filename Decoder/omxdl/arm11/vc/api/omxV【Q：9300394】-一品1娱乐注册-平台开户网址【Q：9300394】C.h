@@ -2,7 +2,7 @@
  * File: omxVC.h
  * Brief: OpenMAX DL v1.0.2 - Video Coding library
  *
- * Copyright © 2005-2008 The Khronos Group Inc. All Rights Reserved. 
+ * Copyright Â© 2005-2008 The Khronos Group Inc. All Rights Reserved. 
  *
  * These materials are protected by copyright laws and contain material 
  * proprietary to the Khronos Group, Inc.  You may use these materials 
