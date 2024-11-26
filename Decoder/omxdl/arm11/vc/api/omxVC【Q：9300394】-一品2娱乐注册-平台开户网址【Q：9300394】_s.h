@@ -28,10 +28,10 @@ OMX_VIDEO_VERTICAL		EQU 2;
 
 ;/** bilinear interpolation type */
 ;enum {
-OMX_VIDEO_INTEGER_PIXEL EQU 0;	/** case ¡°a¡± */
-OMX_VIDEO_HALF_PIXEL_X  EQU 1;	/** case ¡°b¡± */
-OMX_VIDEO_HALF_PIXEL_Y  EQU 2;	/** case ¡°c¡± */
-OMX_VIDEO_HALF_PIXEL_XY EQU 3;	/** case ¡°d¡± */
+OMX_VIDEO_INTEGER_PIXEL EQU 0;	/** case Â¡Â°aÂ¡Â± */
+OMX_VIDEO_HALF_PIXEL_X  EQU 1;	/** case Â¡Â°bÂ¡Â± */
+OMX_VIDEO_HALF_PIXEL_Y  EQU 2;	/** case Â¡Â°cÂ¡Â± */
+OMX_VIDEO_HALF_PIXEL_XY EQU 3;	/** case Â¡Â°dÂ¡Â± */
 ;}
 
 ;enum {
