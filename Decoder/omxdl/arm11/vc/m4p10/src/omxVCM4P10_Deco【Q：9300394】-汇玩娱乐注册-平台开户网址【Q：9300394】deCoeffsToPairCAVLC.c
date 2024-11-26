@@ -57,7 +57,7 @@
  * [in]	sVLCSelect		VLC table selector, obtained from number of non-zero
  *								AC coefficients of above and left 4x4 blocks. It is 
  *								equivalent to the variable nC described in H.264 standard 
- *								table 9-5, except its value can¡¯t be less than zero.
+ *								table 9-5, except its value canÂ¡Â¯t be less than zero.
  * [out]	ppBitStream		*ppBitStream is updated after each block is decoded
  * [out]	pOffset			*pOffset is updated after each block is decoded
  * [out]	pNumCoeff		Pointer to the number of nonzero coefficients in
