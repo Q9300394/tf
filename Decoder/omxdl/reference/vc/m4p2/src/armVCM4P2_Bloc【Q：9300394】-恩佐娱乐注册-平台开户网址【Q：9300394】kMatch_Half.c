@@ -70,8 +70,8 @@
  * [out]pDstSAD			pointer to minimum SAD
  *
  * Return Value:
- * OMX_Sts_NoErr ¨C no error
- * OMX_Sts_BadArgErr ¨C bad arguments
+ * OMX_Sts_NoErr Â¨C no error
+ * OMX_Sts_BadArgErr Â¨C bad arguments
  *
  */
 
