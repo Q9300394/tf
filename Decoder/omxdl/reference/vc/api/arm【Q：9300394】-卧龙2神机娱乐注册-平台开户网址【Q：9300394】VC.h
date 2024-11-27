@@ -611,8 +611,8 @@ OMX_U8 armVCM4P2_CheckVLCEscapeMode(
  * [out]	pDstSAD			pointer to minimum SAD
  *
  * Return Value:
- * OMX_Sts_NoErr 每 no error.
- * OMX_Sts_BadArgErr 每 bad arguments
+ * OMX_Sts_NoErr 穡C no error.
+ * OMX_Sts_BadArgErr 穡C bad arguments
  *
  */
 
@@ -663,8 +663,8 @@ OMXResult armVCM4P2_BlockMatch_Integer(
  * [out]pDstSAD			pointer to minimum SAD
  *
  * Return Value:
- * OMX_Sts_NoErr 每 no error
- * OMX_Sts_BadArgErr 每 bad arguments
+ * OMX_Sts_NoErr 穡C no error
+ * OMX_Sts_BadArgErr 穡C bad arguments
  *
  */
 
